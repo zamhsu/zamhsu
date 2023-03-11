@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zamhsu
-- 👀 I’m interested in web application
-- 🌱 I’m currently learning Vue, Docker and PostgreSQL
+- 👀 I’m interested in web application, APM
+- 🌱 I’m currently learning Elastic APM, Grafana Tempo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
