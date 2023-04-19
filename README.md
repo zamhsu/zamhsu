@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zamhsu
-- 👀 I’m interested in web application, APM
-- 🌱 I’m currently learning Elastic APM, Grafana Tempo
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 裡面程式都是寫好玩的啦，沒什麼料
+- 🌱 大致上有 Web API, Vue 3, Elastic APM, Grafana Tempo
+- 📫 How to reach me ... ??? 再說吧
 
 <!---
 zamhsu/zamhsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
