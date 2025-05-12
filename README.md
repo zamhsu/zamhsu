@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zamhsu
-- 👀 裡面程式都是寫好玩的啦，沒什麼料
+- 👀 打雜工程師
 - 🎣 一天捕魚，三年曬網
-- 🌱 大致上有 Web API, Vue 3, Elastic APM, Grafana Tempo
-- 📫 How to reach me ... ??? 再說吧
+- 🌱 大致上有 Web API, Elastic APM, Grafana Tempo ... 包山包海
+- 📫 How to reach me ... ???
 - 📖 娛樂性質的部落格：[灰貓遊樂場](https://zamhsu.github.io/)
 
 <!---
